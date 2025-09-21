@@ -119,6 +119,9 @@ Set up a working PBX in a virtual lab environment with:
 
 ### CDR reports  
 
+<img width="1796" height="723" alt="image" src="https://github.com/user-attachments/assets/87b2ae0d-55a2-4e6e-97ea-c1ad6dbdd6ae" />
+
+
 ---
 
 ## 📊 Skills Demonstrated
