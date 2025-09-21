@@ -78,7 +78,9 @@ Set up a working PBX in a virtual lab environment with:
 <img width="845" height="566" alt="Zoiper_1002" src="https://github.com/user-attachments/assets/479d21a5-9d1d-4ec9-9300-0edbca145de9" />
 <img width="285" height="500" alt="IMG_6688" src="https://github.com/user-attachments/assets/3db984fc-03f9-4542-8711-f6101ac5fe7b" />
 
-- Call between extensions  
+### Call between extensions  
+<img width="837" height="577" alt="image" src="https://github.com/user-attachments/assets/ac3751ce-1fa5-4f2c-b7ee-01facd18eef8" />
+
 - IVR Menu setup  
 - CDR reports  
 
