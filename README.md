@@ -10,7 +10,7 @@ Set up a working PBX in a virtual lab environment with:
 ---
 
 ## ⚙️ Environment Setup
-- **Virtualization**: VirtualBox (free)  
+- **Virtualization**: VirtualBox (free)  https://www.virtualbox.org/
 - **PBX Software**: [FreePBX Distro ISO](https://www.freepbx.org/downloads/) (Stable 64-bit)  
 - **VM Specs**:
   - OS: Linux → RedHat 64-bit
@@ -70,7 +70,10 @@ Set up a working PBX in a virtual lab environment with:
 ### FreePBX Dashboard
 <img width="1868" height="843" alt="image" src="https://github.com/user-attachments/assets/2fd775d4-c93a-429d-8dee-1d335e97df4f" />
 
-- Extension setup  
+### Extension setup  
+<img width="1523" height="828" alt="Extension_1001" src="https://github.com/user-attachments/assets/e8e40fda-1cd0-4896-bef2-ca8f986d87fa" />
+<img width="1733" height="874" alt="Extension_1002" src="https://github.com/user-attachments/assets/686770e7-f8ee-4d19-9b18-3a566f2a53df" />
+
 - Zoiper/Linphone registration  
 - Call between extensions  
 - IVR Menu setup  
