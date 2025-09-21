@@ -76,7 +76,7 @@ Set up a working PBX in a virtual lab environment with:
 
 ### Zoiper/Linphone registration  
 <img width="845" height="566" alt="Zoiper_1002" src="https://github.com/user-attachments/assets/479d21a5-9d1d-4ec9-9300-0edbca145de9" />
-<img width="585" height="1266" alt="IMG_6688" src="https://github.com/user-attachments/assets/3db984fc-03f9-4542-8711-f6101ac5fe7b" />
+<img width="285" height="500" alt="IMG_6688" src="https://github.com/user-attachments/assets/3db984fc-03f9-4542-8711-f6101ac5fe7b" />
 
 - Call between extensions  
 - IVR Menu setup  
