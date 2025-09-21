@@ -67,7 +67,7 @@ Set up a working PBX in a virtual lab environment with:
 
 
 ## Results
-###FreePBX Dashboard
+### FreePBX Dashboard
 <img width="1868" height="843" alt="image" src="https://github.com/user-attachments/assets/2fd775d4-c93a-429d-8dee-1d335e97df4f" />
 
 - Extension setup  
