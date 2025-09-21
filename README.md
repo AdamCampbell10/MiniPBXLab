@@ -65,24 +65,52 @@ Set up a working PBX in a virtual lab environment with:
 - Export CSV logs.  
 - (In Progress) Build Python/Pandas dashboard → visualize call activity by day/hour.
 
+---
 
 ## Results
 ### FreePBX Dashboard
+
 <img width="1868" height="843" alt="image" src="https://github.com/user-attachments/assets/2fd775d4-c93a-429d-8dee-1d335e97df4f" />
 
 ### Extension setup  
+
 <img width="1523" height="828" alt="Extension_1001" src="https://github.com/user-attachments/assets/e8e40fda-1cd0-4896-bef2-ca8f986d87fa" />
 <img width="1733" height="874" alt="Extension_1002" src="https://github.com/user-attachments/assets/686770e7-f8ee-4d19-9b18-3a566f2a53df" />
 
+### Voicemail setup
+
+<img width="1249" height="680" alt="1001_Voicemail" src="https://github.com/user-attachments/assets/c23973d9-1f33-4516-bd88-c169d47042b4" />
+<img width="1242" height="932" alt="1002_Voicemail" src="https://github.com/user-attachments/assets/49949c36-cf72-4f63-9ed8-f0eef76aac93" />
+
+
 ### Zoiper/Linphone registration  
+
 <img width="845" height="566" alt="Zoiper_1002" src="https://github.com/user-attachments/assets/479d21a5-9d1d-4ec9-9300-0edbca145de9" />
 <img width="285" height="500" alt="IMG_6688" src="https://github.com/user-attachments/assets/3db984fc-03f9-4542-8711-f6101ac5fe7b" />
 
 ### Call between extensions  
+
 <img width="837" height="577" alt="image" src="https://github.com/user-attachments/assets/ac3751ce-1fa5-4f2c-b7ee-01facd18eef8" />
 
-- IVR Menu setup  
-- CDR reports  
+### IVR Menu setup
+
+#### System Recordings - Audio used in Announcements
+
+<img width="1824" height="816" alt="image" src="https://github.com/user-attachments/assets/0d66c1d2-96a1-4ccb-85a3-21b5460873e3" />
+
+#### Announcement - Provides IVR with the correct System Recording
+
+<img width="1800" height="574" alt="image" src="https://github.com/user-attachments/assets/dd755155-65e1-4658-ac00-2d316abf2c50" />
+
+#### IVR
+
+<img width="1791" height="862" alt="image" src="https://github.com/user-attachments/assets/e29e3e8b-a51d-46c7-a756-546e9daae06f" />
+<img width="1832" height="821" alt="image" src="https://github.com/user-attachments/assets/82797dba-6f81-406d-b858-d06f8f93ffb4" />
+
+
+---
+
+### CDR reports  
 
 ---
 
