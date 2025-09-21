@@ -66,8 +66,10 @@ Set up a working PBX in a virtual lab environment with:
 - (In Progress) Build Python/Pandas dashboard → visualize call activity by day/hour.
 
 
-## 📸 Screenshots
-- FreePBX Dashboard  
+## Results
+###FreePBX Dashboard
+<img width="1868" height="843" alt="image" src="https://github.com/user-attachments/assets/2fd775d4-c93a-429d-8dee-1d335e97df4f" />
+
 - Extension setup  
 - Zoiper/Linphone registration  
 - Call between extensions  
