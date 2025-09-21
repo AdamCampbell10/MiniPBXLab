@@ -16,7 +16,7 @@ Set up a working PBX in a virtual lab environment with:
   - OS: Linux → RedHat 64-bit
   - RAM: 2GB+
   - Disk: 20GB+
-  - CPUS: 3
+  - CPU: 3 cores
   - Network Adapter: Bridged Adapter
 - **Softphones**: Zoiper 
 
