@@ -57,7 +57,8 @@ Set up a working PBX in a virtual lab environment with:
 - Options:
   - `1` → Ext 1001
   - `2` → Ext 1002  
-- Link IVR to an inbound route.  
+- Due to not paying for a subscription with FreePBX I had to perform a workaround to test the IVR.
+- A ring group was configured without a designated primary destination; in the absence of answer events from the designated extensions, calls are forwarded to the IVR.
 - ✅ Test by calling into IVR.
 
 ### 6. Call Logs & CDR
@@ -106,6 +107,12 @@ Set up a working PBX in a virtual lab environment with:
 
 <img width="1791" height="862" alt="image" src="https://github.com/user-attachments/assets/e29e3e8b-a51d-46c7-a756-546e9daae06f" />
 <img width="1832" height="821" alt="image" src="https://github.com/user-attachments/assets/82797dba-6f81-406d-b858-d06f8f93ffb4" />
+
+### Ring Group setup
+
+<img width="1794" height="457" alt="image" src="https://github.com/user-attachments/assets/97926e67-9c51-4218-a2d8-b52105e38cb4" />
+<img width="1792" height="145" alt="image" src="https://github.com/user-attachments/assets/95017187-489a-4ae3-86d1-89e83e21efad" />
+
 
 
 ---
