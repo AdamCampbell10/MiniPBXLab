@@ -28,7 +28,7 @@ Set up a working PBX in a virtual lab environment with:
 1. Download and mount the FreePBX ISO in VirtualBox.  
 2. Install with guided setup.  
 3. After installation, note the server IP shown on the console or using ifconfig.
-4. If using firewall ensure to trust the IPs of the devices being used using the command fwconsole firewall trust "x.x.x.x" .
+4. If using firewall ensure to trust the IPs of the devices being used using the command fwconsole firewall trust "x.x.x.x".
 
 ### 2. Access Web GUI
 - Open browser → insert the ip given in step 1.  
