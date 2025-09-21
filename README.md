@@ -74,7 +74,10 @@ Set up a working PBX in a virtual lab environment with:
 <img width="1523" height="828" alt="Extension_1001" src="https://github.com/user-attachments/assets/e8e40fda-1cd0-4896-bef2-ca8f986d87fa" />
 <img width="1733" height="874" alt="Extension_1002" src="https://github.com/user-attachments/assets/686770e7-f8ee-4d19-9b18-3a566f2a53df" />
 
-- Zoiper/Linphone registration  
+### Zoiper/Linphone registration  
+<img width="845" height="566" alt="Zoiper_1002" src="https://github.com/user-attachments/assets/479d21a5-9d1d-4ec9-9300-0edbca145de9" />
+<img width="585" height="1266" alt="IMG_6688" src="https://github.com/user-attachments/assets/3db984fc-03f9-4542-8711-f6101ac5fe7b" />
+
 - Call between extensions  
 - IVR Menu setup  
 - CDR reports  
@@ -86,7 +89,6 @@ Set up a working PBX in a virtual lab environment with:
 - Configuring SIP extensions & voicemail  
 - Designing IVR call flows  
 - Using softphones for VoIP communication  
-- Analyzing call detail records (CDR)  
-- (Optional) SIP trunk integration  
+- Analyzing call detail records (CDR)   
 
 ---
